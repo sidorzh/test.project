@@ -1,10 +1,12 @@
 'use strict';
 
 
-const isChecked = true,
-    isClosed = false;
+// const isChecked = false,
+//     isClosed = false;
 
-console.log(isChecked && isClosed);
+// console.log(isChecked || !isClosed);
+
+// console.log(6 != 8);
 
 
 // let incr = 10,
